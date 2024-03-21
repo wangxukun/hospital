@@ -1,6 +1,6 @@
 {
   "name": "integration",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,9 +11,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@hospital-dk/doctor": "^0.0.5",
-    "@hospital-dk/patient": "^0.0.5",
-    "@hospital-dk/scheduler": "^0.0.5"
+    "@hospital-dk/doctor": "^0.0.6",
+    "@hospital-dk/patient": "^0.0.6",
+    "@hospital-dk/scheduler": "^0.0.6"
   },
   "gitHead": "21bc5e2e714c78b9fd50fb3084326c1f94f073fd"
 }
