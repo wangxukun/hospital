@@ -1,9 +1,4 @@
 {
   "$schema": "node_modules/lerna/schemas/lerna-schema.json",
-  "version": "0.0.6",
-  "command": {
-    "publish": {
-      "ignore": "[packages/integration*]"
-    }
-  }
+  "version": "0.0.6"
 }
