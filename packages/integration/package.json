@@ -11,8 +11,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@hospital-dk/doctor": "file:../doctor",
-    "@hospital-dk/patient": "file:../patient",
-    "@hospital-dk/scheduler": "file:../scheduler"
-  }
+    "@hospital-dk/doctor": "^0.0.1",
+    "@hospital-dk/patient": "^0.0.1",
+    "@hospital-dk/scheduler": "^0.0.1"
+  },
+  "gitHead": "18225abb3c837f0e5d823714dcee4117964fda26"
 }
