@@ -4,6 +4,6 @@ export class Scheduler {
   }
 
   hi() {
-    console.log('hello, scheduler');
+    console.log('hello, scheduler. Release testing is underway');
   }
 }

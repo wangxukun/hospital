@@ -21,5 +21,5 @@
     "tsc": "tsc",
     "test": "node ./__tests__/scheduler.test.js"
   },
-  "gitHead": "18225abb3c837f0e5d823714dcee4117964fda26"
+  "gitHead": "ed11a8a8619a3831070785cf4981aba98ed6555a"
 }
