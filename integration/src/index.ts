@@ -10,3 +10,5 @@ patient.hi();
 
 const scheduler = new Scheduler();
 scheduler.hi();
+
+console.log('hello, 20240321');
