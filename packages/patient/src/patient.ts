@@ -5,5 +5,6 @@ export class Patient {
 
   hi() {
     console.log('hello, patient. Release testing is underway!!!');
+    console.log('update patient.ts');
   }
 }
