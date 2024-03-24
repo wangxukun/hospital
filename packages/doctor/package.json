@@ -6,6 +6,9 @@
   "homepage": "",
   "license": "ISC",
   "main": "lib/doctor.js",
+  "bin": {
+    "doctor": "lib/doctor.js"
+  },
   "typings": "lib/doctor.d.ts",
   "directories": {
     "lib": "lib",
@@ -21,5 +24,11 @@
     "tsc": "tsc",
     "test": "node ./__tests__/doctor.test.js"
   },
-  "gitHead": "9706baae07149bd9669ead02c87f96736e9102ab"
+  "gitHead": "9706baae07149bd9669ead02c87f96736e9102ab",
+  "dependencies": {
+    "import-local": "^3.1.0"
+  },
+  "devDependencies": {
+    "@types/import-local": "^3.1.2"
+  }
 }
